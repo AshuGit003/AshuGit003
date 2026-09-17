@@ -104,19 +104,7 @@ Built an AI-powered smart notes management app, integrating Semantic Kernel with
 
 ### 📊 GitHub Stats
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AshuGit003&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshuGit003&layout=compact&theme=radical&hide_border=true"/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=AshuGit003&theme=radical&hide_border=true"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AshuGit003&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-</div>
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</div>
-
+<div align="center"> <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AshuGit003&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshuGit003&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/> <img src="https://nirzak-streak-stats.vercel.app/?user=AshuGit003&theme=radical&hide_border=false"/> <img src="https://github-profile-trophy.vercel.app/?username=AshuGit003&theme=radical&no-frame=false&no-bg=true&margin-w=4"/> <img src="https://github-contributor-stats.vercel.app/api?username=AshuGit003&limit=5&theme=radical&combine_all_yearly_contributions=true"/> </div>
 ---
 
 ### 📜 Certifications
