@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C2D91,100:239120&height=200&section=header&text=Ashish%20Gawade&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20.NET%20Developer%20%7C%20DevOps%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C2D91,100:239120&height=200&section=header&text=Ashish%20Gawade&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20.NET%20Developer%20%7C%20Exploring%20Agentic%20AI&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=5C2D91&center=true&vCenter=true&width=650&lines=Building+secure%2C+scalable+ASP.NET+Core+APIs;Full+Stack+.NET+%2B+Angular+Developer;Bridging+Dev+and+Ops%2C+one+pipeline+at+a+time;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
@@ -18,15 +18,13 @@
 
 I'm a **Software Development Engineer** at **Ascent HCM, Pune**, building enterprise HR & payroll applications with **ASP.NET Core, C#, Angular, and SQL Server**. I focus on designing secure, scalable, performance-driven backend APIs and clean, reusable frontend components.
 
-Alongside development, I'm actively deepening my **DevOps** skills — CI/CD pipelines, containerization, and cloud delivery — to bridge the gap between writing code and shipping it reliably.
+Alongside development, I'm currently exploring **Agentic AI** — building LLM-powered, autonomous workflows — to extend what I can build beyond traditional request/response APIs.
 
-```yaml
-role: Software Development Engineer @ Ascent HCM
-experience: "2+ years professional · 4th year overall"
-focus: [ASP.NET Core APIs, Angular, T-SQL, Azure, CI/CD]
-currently_learning: [DevOps, Kubernetes, Cloud Architecture]
-fun_fact: "100+ DSA problems solved across LeetCode & HackerRank"
-```
+- 💼 **Role:** Software Development Engineer @ Ascent HCM
+- 📅 **Experience:** 4+ years professional · 4th year overall
+- 🎯 **Focus:** `ASP.NET Core APIs` `Angular` `T-SQL` `Azure` `CI/CD`
+- 📚 **Currently learning:** `Agentic AI`
+- ⚡ **Fun fact:** 100+ DSA problems solved across LeetCode & HackerRank
 
 <br/>
 
